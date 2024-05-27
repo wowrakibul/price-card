@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --semibold: Inter;
+
+  /* font sizes */
+  --semibold-size: 32px;
+
+  /* Colors */
+  --ai-template-white: #fff;
+  --ai-template-black: #0a092e;
+  --ai-template-dark-70: #464b69;
+}
